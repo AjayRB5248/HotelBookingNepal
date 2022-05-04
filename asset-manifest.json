@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HotelBookingNepal/static/css/main.31395477.css",
+    "main.js": "/HotelBookingNepal/static/js/main.d16571ce.js",
+    "index.html": "/HotelBookingNepal/index.html",
+    "main.31395477.css.map": "/HotelBookingNepal/static/css/main.31395477.css.map",
+    "main.d16571ce.js.map": "/HotelBookingNepal/static/js/main.d16571ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31395477.css",
+    "static/js/main.d16571ce.js"
+  ]
+}
